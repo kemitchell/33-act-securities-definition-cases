@@ -3,6 +3,12 @@
   court: 8th Circuit
   year: 1974
   Hu: yes
+  security: possibly
+  disposition: reversed
+  relationship:
+    - purchase and breeding of chinchillas
+  notes:
+    - court analogized to Turner
 
 - style: Lino v. City Investing Co.
   report: 487 F.2d 689
