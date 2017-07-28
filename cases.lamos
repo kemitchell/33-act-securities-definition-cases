@@ -104,3 +104,68 @@
   report: 126 F.3d 144
   court: 3rd Circuit
   year: 1997
+
+- style: Hector v. Wiens
+  report: 533 F.2d 429
+  court: 9th Circuit
+  year: 1976
+  Framework: yes
+
+- style: Sandusky Land, Ltd. V. Uniplan Groups, Inc.
+  report: 400 F. Supp. 440
+  court: N.D. Ohio
+  year: 1975
+  Framework: yes
+
+- style: Curran v. Merrill Lynch
+  report: 622 F.2d 216
+  court: 6th Circuit
+  year: 1980
+  Framework: yes
+
+- style: Hirk v. Agri-Research Council, Inc.
+  report: 561 F.2d 96
+  court: 7th Circuit
+  year: 1977
+  Framework: yes
+
+- style: Wals v. Fox Hills Dev. Corp.
+  report: 24 F.3d 1016
+  court: 7th Circuit
+  year: 1994
+  Framework: yes
+
+- style: SEC v. Eurobond Exchange
+  report: 13 F.3d 1334
+  court: 9th Circuit
+  year: 1994
+  Framework: yes
+
+- style: SEC v. Continental Commodities
+  report: 497 F.2d 516
+  court: 5th Circuit
+  year: 1974
+  Framework: yes
+
+- style: Woolrdige Homes, Inc. v. Bronze Tree, Inc.
+  report: 558 F.Supp. 1085
+  court: D. Colorado
+  year: 1983
+  Framework: yes
+
+- style: Silver Hills Country Club v. Sobieski
+  report: 55 Cal.2d 811
+  year: 1961
+  Framework: yes
+
+- style: Jet Set Travels Club v. Corporation Com'r
+  report: 21 Or.App. 362
+  year: 1975
+  Framework: yes
+
+- style: Hirsch v. Dupont
+  report: 553 F.2nd 750
+  below: 396 F.Supp. 1214
+  court: 2nd Circuit
+  year: 1975
+  Framework: yes
